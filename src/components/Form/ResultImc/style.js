@@ -17,6 +17,7 @@ export const styles = StyleSheet.create({
   number:{
     fontSize:48,
     color:'#FF0043',
-    fontWeight:'bold'
+    fontWeight:'bold',
+    justifyContent:'center'
   }
 });
