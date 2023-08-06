@@ -2,10 +2,9 @@
 
 |      MOBILE       |
 |:-------------------:|
-|![](./src/components/imgs/Screenshot_20230805-204204_Expo%20Go.jpg)
+|![](./src/components/imgs/Screenshot_20230805-204204_Expo%20Go.jpg) ![](./src/components/imgs/Screenshot_20230805-204210_Expo%20Go.jpg)
 
-|:-------------------:|
-![](./src/components/imgs/Screenshot_20230805-204210_Expo%20Go.jpg)
+
 
 ---
 
