@@ -50,5 +50,17 @@ export const styles = StyleSheet.create({
   exhibitionResultImc:{
     width:'100%',
     height:'50%'
+  },
+  textResultImc: {
+    marginTop: 30,
+    fontSize:20,
+  },
+  listImc: {
+    marginTop: 20,
+  },
+  textListImc:{
+    fontSize:18,
+    color:'red',
+    fontWeight:'bold',
   }
 });
