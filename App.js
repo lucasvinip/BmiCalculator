@@ -1,13 +1,21 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { 
+  StyleSheet,
+  View,
+  Pressable,
+  Keyboard,
+  } from 'react-native';
 import Title from './src/components/Title/index.js';
 import Form from './src/components/Form/index.js';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <Pressable 
+    onPress={Keyboard.dismiss}
+    style={styles.container}
+    >
         <Title/>
         <Form/>
-    </View>
+    </Pressable>
   );
 }
 
